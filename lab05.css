@@ -26,3 +26,14 @@
     border: dotted red 3px;
     border-radius: 15px;
 }
+.margin-text{
+    margin: 30px;
+    background-color: aquamarine;
+}
+.custom-margin{
+    margin-top: 20px;
+    margin-bottom: 20px;
+    margin-left: 40px;
+    margin-right: 40px;
+    background-color: lightcoral
+}
