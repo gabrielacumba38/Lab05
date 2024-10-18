@@ -19,3 +19,6 @@
     padding-right: 20px;
     background-color: beige;
 }
+.border-box{
+    border: solid black 2px;
+}
