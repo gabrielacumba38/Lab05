@@ -37,6 +37,30 @@
     margin-right: 40px;
     background-color: lightcoral
 }
-.inline-elemt{
-    display: inline
+.inline-element{
+    display: inline;
+    background-color: rosybrown
+}
+.blockelement{
+    display: block;
+    background-color:azure
+}
+.inline-block-element{
+    display: inline-block;
+    background-color: slategray
+}
+.hidden-element{
+    display: none;
+}
+.visible-element{
+    display: visible;
+    background-color: brown
+}
+.invisible-element{
+    visibility: hidden;
+}
+.transparent-box{
+    background-color:blue;
+    opacity: 0.5
+
 }
